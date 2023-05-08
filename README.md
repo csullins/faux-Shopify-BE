@@ -29,6 +29,12 @@
 
   🔬 N/A
 
+  ## Demo
+   ![demo](./assets/faux_Shopify_BE_demo.gif)
+
+   https://drive.google.com/file/d/1ukSRaIiV01JUnEAc2VKmK8brNlz-RnjT/view
+
+
   ## Questions❓
 
   * Visit my Github repo at https://www.github.com/csullins
